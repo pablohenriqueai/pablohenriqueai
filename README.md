@@ -128,5 +128,5 @@ Construção de pipelines de dados, processamento distribuído, integração de 
   <a href="https://www.linkedin.com/in/aipablo/"><img src="https://img.shields.io/badge/LinkedIn-491c1b?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eopabro@gmail.com"><img src="https://img.shields.io/badge/Email-491c1b?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@bypablohenrique"><img src="https://img.shields.io/badge/YouTube-491c1b?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/eopabro/"><img src="https://img.shields.io/badge/Instagram-491c1b?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pablohenrique.ai/"><img src="https://img.shields.io/badge/Instagram-491c1b?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
