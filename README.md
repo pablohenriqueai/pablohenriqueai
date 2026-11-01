@@ -7,8 +7,10 @@
 <p align="justify">
 Atuo na interseção entre Machine Learning, Inteligência Artificial Generativa e engenharia de software, com foco na construção de sistemas inteligentes que possam operar de forma confiável em ambientes reais.
 
+<p align="justify">
 Meu trabalho e meus estudos abrangem o ciclo de desenvolvimento de soluções de IA: engenharia e preparação de dados, desenvolvimento e avaliação de modelos, integração de LLMs, construção de agentes inteligentes e implantação de aplicações escaláveis.
 
+<p align="justify">
 Tenho especial interesse em AI Engineering, sistemas baseados em LLMs, arquiteturas RAG, Agentic AI, otimização de inferência e infraestrutura distribuída. Busco conectar pesquisa e desenvolvimento à engenharia de produtos, transformando capacidades de inteligência artificial em soluções eficientes, observáveis e orientadas a problemas reais.
 </p>
 
